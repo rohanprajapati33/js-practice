@@ -1,22 +1,23 @@
 for(let i=28;i<50;i++){
      console.log(i)
  }
-//whilw
-// j = 0;
-// while (j<25) {
-//     console.log(j+1)
-//     j++
-// }
+//while
+ j = 0;
+ while (j<25) {
+     console.log(j+1)
+     j++
+ }
+
 //do while
-// let k = 0;
-// do{
+ let k = 0;
+ do{
     
-//     if(k === 4){
-//         continue;
-//     }
-//     console.log(k+1);
-//     k++
-// }while (k<10)
+     if(k === 4){
+         continue;
+     }
+     console.log(k+1);
+     k++
+ }while (k<10)
 
 // let obj = {
 //   name : "Rohan das",
